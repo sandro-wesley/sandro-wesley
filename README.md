@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sandro-wesley
-- 👀 I’m interested in technology in general
-- 🌱 I’m currently learning HTML, Java and android
-- 📫 How to reach me: sandro.wesley521@gmail.com
+## OLÁ EU SOU sandro wesley
+- 👀 Tenho interesse em tecnologias no geral
+- 📕 Estou aprendendo HTML, CSS, Javascript
+- 📫 Contato: sandro.wesley521@gmail.com
 
 <div>
 <a href="https://github.com/sandro-wesley">
